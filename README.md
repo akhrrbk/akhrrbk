@@ -4,3 +4,4 @@
 - I am currently leaning Redux, Nodejs, GraphQl and Typescript.
 - I speak Uzbek/English/Korean languages.
 - Leave me a message on [Telegram](t.me/akhrrbk) for the fastest communication :)
+- Join me in my 30-day-challenge where we build one project a day
