@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Axrorbek, a FullStack Developer in Progress.
 
-- I'm a 4th year student at Dongseo University, Busan.
+- I'm a 4th year Computer Science student at Dongseo University, Busan.
 - I’m currently going through the [FullStackOpen material](https://fullstackopen.com/en/#course-contents) by the University of Helsinki.
 - I am currently leaning Redux, Nodejs, GraphQl and Typescript, CI/CD
 - I speak Uzbek/English/Korean/Russian languages.
