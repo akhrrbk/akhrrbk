@@ -5,5 +5,5 @@
 - I am currently leaning Redux, Nodejs, GraphQl and Typescript, CI/CD
 - I speak Uzbek/English/Korean/Russian languages.
 - Leave me a message on [Telegram](t.me/akhrrbk) for the fastest communication :)
-- Join me in my [30-day-challenge](https://github.com/akhrrbk/30-day-challenge) where we build one project a day
-- Check out my resume [here](https://drive.google.com/file/d/1pnHVyhDD7dm47GY48u0E7HkkuvqVDvcf/view?usp=sharing)
+- Check out my main projects [here](https://github.com/akhrrbk/list-of-projects)
+- And my resume [here](https://drive.google.com/file/d/1pnHVyhDD7dm47GY48u0E7HkkuvqVDvcf/view?usp=sharing)
