@@ -6,4 +6,4 @@
 - I speak Uzbek/English/Korean/Russian languages.
 - Leave me a message on [Telegram](t.me/akhrrbk) for the fastest communication :)
 - Check out my main projects [here](https://github.com/akhrrbk/list-of-projects)
-- And my resume [here](https://drive.google.com/file/d/1pnHVyhDD7dm47GY48u0E7HkkuvqVDvcf/view?usp=sharing)
+- And my updated resume [here](https://docs.google.com/document/d/1yRgY7J5kDS9j7dEN89hKB1kZ59e_IFggt-a4kVjFiik/edit?usp=sharing)
